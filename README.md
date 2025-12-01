@@ -9,7 +9,7 @@ This project aims to **detect potential fraudulent transactions** using a **rule
 - Machine Learning Modeling (Random Forest & Isolation Forest)  
 - Evaluation and High-Quality Visualizations  
 
-The project demonstrates skills in **data cleaning, feature engineering, anomaly detection, and predictive modeling**, making it suitable for a **data science portfolio**.
+The project demonstrates skills in **data cleaning, feature engineering, anomaly detection, and predictive modeling**
 
 ---
 
